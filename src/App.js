@@ -30,7 +30,7 @@ const Container = styled.div`
   margin: auto;
   border-radius: 4px;
   box-shadow: 0 3px 6px 0 #555;
-  background: white;
+  background: rgb(181 171 182);
   font-family: Montserrat;
 `;
 

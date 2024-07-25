@@ -18,7 +18,7 @@ const SearchBox = styled.form`
     font-weight: bold;
   }
   & button {
-    background-color: black;
+    background-color: blue;
     font-size: 14px;
     padding: 0 10px;
     color: white;
