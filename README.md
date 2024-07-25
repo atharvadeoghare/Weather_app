@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Weather App - ReactJS Projects
 
 ![](weather.gif)
@@ -36,3 +37,6 @@ https://openweathermap.org/current
 * By Subscribing : [The Indian Dev](https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA) at Youtube
 * By Following : [The Indian Dev](https://www.instagram.com/theindiandev) at Instagram
 
+=======
+# Weather_app
+>>>>>>> f35e606e9db1447ec77cfe3294006807aff4b362
